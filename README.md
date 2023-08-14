@@ -9,7 +9,7 @@ A wrapper for generating a database restore script
 ## Functionality
 ### Parameters
 * @DBName
-  * the database to be stored
+  * the database to be restored
 * @RestoreName
   * the restore name of the database of @DBName
 * @DataFileName
