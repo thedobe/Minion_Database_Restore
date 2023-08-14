@@ -1,5 +1,5 @@
 # Minion_Database_Restore
-A wrapper for generating a database restore script
+A wrapper for generating a database restore script using Minion tables
 
 ## Requirements
 * Minion
