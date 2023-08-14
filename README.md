@@ -45,7 +45,7 @@ A wrapper for generating a database restore script using Minion tables
        @LogFileName = 'myDatabase_log',
        @MoveLocation  = '\\some\path',
        @StartDate = '2023-08-01',
-       @EndDate = '2023-08-07'
+       @EndDate = '2023-08-07'`
 * Restore myDatabase from a start date and ending at a specific datetime
   * `EXEC [dbo].[minion_database_restore] 
 	     @DBName = 'myDatabase',
